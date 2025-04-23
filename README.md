@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+My+name+is+Harsh+Vardhan.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+My+name+is+Harsh+Raj.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </h1>
 
-# Hi 👋, I'm Harsh Vardhan 
+# Hi 👋, I'm Harsh Raj
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Vardhan-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-vardhan-b6a912325)
+[![LinkedIn]((https://www.linkedin.com/in/harsh-raj-741821325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
@@ -31,23 +31,22 @@
 
 ### 🚧 Currently Working On
 - 📘 Currentlty Learning DSA on C programming
-- 🌐 Learning frontend web development (HTML + CSS + JS)
 - 🧠 Practicing DSA on platforms like LeetCode 
 
 ### 📊 GitHub Stats  
-![Harsh Vardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh0717vj&show_icons=true&theme=tokyonight)
+![Harsh Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh28ak&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Contributions  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh0717vj&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh28ak&theme=react-dark&hide_border=true)
 
 ---
   
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harsh0717vj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Harsh Vardhan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harsh28ak&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Harsh Raj's GitHub Streak" />
 </p>
 
 
@@ -55,12 +54,12 @@
 ---
 
 ### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=harsh0717vj&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh28ak&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 💬 Contact Me  
-- 📎 LinkedIn: [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-b6a912325)
+- 📎 LinkedIn: [Harsh Raj]((https://www.linkedin.com/in/harsh-raj-741821325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
@@ -72,11 +71,11 @@ Feel free to check out my repositories, suggest ideas, or just drop a ⭐ if som
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Vardhan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Raj" alt="Typing SVG" />
 </h1>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh0717vj&label=Profile+Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/harsh0717vj?label=Followers&style=flat&color=0e75b6)
-![GitHub Stars](https://img.shields.io/github/stars/harsh0717vj?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh28ak&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Harsh28ak?label=Followers&style=flat&color=0e75b6)
+![GitHub Stars](https://img.shields.io/github/stars/Harsh28ak?affiliations=OWNER&label=Stars&style=flat&color=0e75b6)
